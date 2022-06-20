@@ -1,5 +1,6 @@
 # CV-1 
-## 1.1 Personal Information
+## 1.1 Personal Information  
+ ![foto] (C:\Users\user\Desktop\for_cv_58.jpg)          
 *Name* **Biruk-Gryga Ivan**
 *Adresses* *23 Pushkin Avenue, apartment 119, Minsk, Belarus*
 *Phone namber* *+375(29)7900051*
